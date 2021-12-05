@@ -113,7 +113,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
   * [Pandas](https://pandas.pydata.org/)
   * [Numpy](https://numpy.org/)
   * [PyCaret](https://pycaret.org/)
+
+
 * [Matlab](https://www.mathworks.com/products/matlab.html)
+
 * [Spice](https://www.orcad.com/products/orcad-pspice-designer/overview)
 
 <!--
@@ -182,6 +185,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [ ] Setup and Train a Neural Network Model in Pycaret
   - [ ] Allow GPU use for Pycaret models
   - [ ] Implement model using Kera
+
+
+- [ ] Matlab modeling
+
+
+- [ ] SPICE
+
 
 <!--
 - [ ] Multi-language Support
