@@ -92,8 +92,8 @@ To improve upon previous years' racing performance by designing and implementing
 
 
 Included in this repo:
-* Any matlab code used for calculations or simulink modeling
-* x
+* Matlab code used for calculations or simulink modeling
+* SPICE
 * Machine Learning implementation for fuel map optimization.
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
@@ -112,9 +112,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
   * [Anaconda](https://www.anaconda.com/)
   * [Pandas](https://pandas.pydata.org/)
   * [Numpy](https://numpy.org/)
-  *
-      [PyCaret](https://pycaret.org/)
+  * [PyCaret](https://pycaret.org/)
 * [Matlab](https://www.mathworks.com/products/matlab.html)
+* [Spice](https://www.orcad.com/products/orcad-pspice-designer/overview)
 
 <!--
 * [Svelte](https://svelte.dev/)
