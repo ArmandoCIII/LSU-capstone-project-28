@@ -256,6 +256,8 @@ Facebook - https://www.facebook.com/FormulaLSU <br />
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [xiankgx Fuel Map Machine Learning Github](https://github.com/xiankgx/ecu_datalog_analysis)
+* [Utilization of a Neural Network to Improve Fuel Maps of an Air-Cooled Internal
+Combustion Engine by Ryan Frank Young](https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=ohiou1282143527&disposition=inline)
 
 <!--
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
