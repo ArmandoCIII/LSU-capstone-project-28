@@ -6,7 +6,7 @@ def afr_lambda_to_afr(val):
     return val*14.7
 
 def afr_diff(val, target_afr):
-    return 14-val
+    return target_afr-val
 
 def network(dataset, target, regression_algorithm):
     setup(df, target, session_id=100)
