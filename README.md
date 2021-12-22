@@ -25,14 +25,14 @@
   <p align="center">
     LSU Capstone 2021-2022 Project 28
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ArmandoCIII/LSU-capstone-project-28"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/ArmandoCIII/LSU-capstone-project-28">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/ArmandoCIII/LSU-capstone-project-28/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/ArmandoCIII/LSU-capstone-project-28/issues">Request Feature</a>
   </p>
 </div>
 
@@ -158,7 +158,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] SPICE
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ArmandoCIII/LSU-capstone-project-28/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -184,8 +184,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 **Author: Armando Castillo III** <br />
-Project Link - https://github.com/your_username/repo_name <br />
-LinkedIn - https://linkedin.com <br />
+Project Link - https://github.com/ArmandoCIII/LSU-capstone-project-28 <br />
+LinkedIn - https://www.linkedin.com/in/armando-castillo-iii-178087207/ <br />
 
 **Sponsor Organization: LSU TigerRacing** <br />
 Email - FormulaLSU@gmail.com <br />
@@ -210,18 +210,18 @@ Combustion Engine by Ryan Frank Young](https://etd.ohiolink.edu/apexprod/rws_etd
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ArmandoCIII/LSU-capstone-project-28.svg?style=for-the-badge
+[contributors-url]: https://github.com/ArmandoCIII/LSU-capstone-project-28/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ArmandoCIII/LSU-capstone-project-28.svg?style=for-the-badge
+[forks-url]: https://github.com/ArmandoCIII/LSU-capstone-project-28/network/members
+[stars-shield]: https://img.shields.io/github/stars/ArmandoCIII/LSU-capstone-project-28.svg?style=for-the-badge
+[stars-url]: https://github.com/ArmandoCIII/LSU-capstone-project-28/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ArmandoCIII/LSU-capstone-project-28.svg?style=for-the-badge
+[issues-url]: https://github.com/ArmandoCIII/LSU-capstone-project-28/issues
+[license-shield]: https://img.shields.io/github/license/ArmandoCIII/LSU-capstone-project-28.svg?style=for-the-badge
+[license-url]: https://github.com/ArmandoCIII/LSU-capstone-project-28/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/armando-castillo-iii-178087207/
 
 
 <!--
